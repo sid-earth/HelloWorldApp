@@ -26,4 +26,6 @@ public class ActivityClass2 extends AppCompatActivity {
     }
 
 
+    // Dummy comment to see how git update works on initial version
+
 }
